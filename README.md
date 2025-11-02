@@ -1,4 +1,4 @@
-<h1> Hi there i'm full-Stack Developer</h1>
+<h1> Hi there i'm Front-End Developer</h1>
 
 ### My name is Mohamed Fouad
 ### you can call me Fo2sh :smiley_cat:
