@@ -4,9 +4,8 @@
 
 ### Full Stack Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=venkatesh0768&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/m-fo2sh-f)
+[![Profile Views](https://komarev.com/ghpvc/?username=m-fo2sh-f&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/m-fo2sh-f)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/m-fo2sh-f)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Venkatesh0768/)
 
 *Building scalable, production-ready applications with modern ecosystems*
 
@@ -57,9 +56,7 @@ public class Developer {
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </td>
 </tr>
@@ -72,10 +69,6 @@ public class Developer {
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-fo2sh-f&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-fo2sh-f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-fo2sh-f&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
 </div>
 
 ---
