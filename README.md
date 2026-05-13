@@ -4,9 +4,11 @@
 
 ### Full Stack Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=m-fo2sh-f&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/m-fo2sh-f)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](www.linkedin.com/in/m-fo2sh-f)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/m-fo2sh-f)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabc336@gmail.com)
+</div>
 *Building scalable, production-ready applications with modern ecosystems*
 
 </div>
